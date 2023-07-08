@@ -188,3 +188,17 @@ main {
   margin-bottom: 10px;
   color: #63804b;
 }
+
+.user-icon {
+  margin-right: 5px;
+  margin-top: 5px;
+}
+
+.user {
+  display: flex;
+  justify-content: space-between;
+}
+
+.user-desc {
+  margin-top: 10px;
+}
