@@ -196,7 +196,6 @@ main {
 
 .user {
   display: flex;
-  justify-content: space-between;
 }
 
 .user-desc {
